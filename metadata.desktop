@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Multimobilewidget
+Name[tr]=Vinzenz Hersche
+Type=Service
+ServiceTypes=Plasma/Applet
+X-Plasma-API=python
+X-Plasma-MainScript=code/widget.py
+Icon=applications
+
+X-KDE-PluginInfo-Author=Vinzenz Hersche
+X-KDE-PluginInfo-Email=hersche@puzzle.ch
+X-KDE-PluginInfo-Name=Multimobilewidget
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://puzzle.ch
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
